@@ -156,7 +156,7 @@ int main()
 
 			switch (key) {
 			case 'e':
-			case 197:
+			case 211:
 				if (isDeath) {
 					isDeath = false;
 					clearData();
